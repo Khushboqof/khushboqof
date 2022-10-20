@@ -34,20 +34,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
       alt="c#" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javscript"
-      width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-      alt="typescript" width="40" height="40" /> </a> <a href="https://nodejs.org/es/"
-    target="_blank" rel="noreferrer"> <img
-      src="https://nodejs.org/static/images/logo.svg" alt="node js" width="40"
-      height="40" /> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40"
-      height="40" /> </a> <a href="https://archlinux.org/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png"
-      alt="linux" width="40" height="40" /> </a> <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
+  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"
+      alt="c#" width="40" height="40" /> </a> <a href="https://www.learn-c.org/" target="_blank"
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
