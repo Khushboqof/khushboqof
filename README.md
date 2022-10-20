@@ -28,18 +28,12 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.dot-net.uz/" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
-      alt="Dotnet Uzbekistan" width="40" height="40" /> </a> </a> <a href="https://www.dot-net.uz/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-      alt="react js" width="40" height="40" />
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://php.net/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
-      alt="php" width="40" height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"
-      alt="laravel" width="40" height="40" /> </a> <a href="https://www.javascript.com/" target="_blank"
+      alt="Dotnet docs" width="40" height="40" /> </a> </a> <a href="https://dotnet.microsoft.com/en-us//" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
+      alt="c#" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javscript"
       width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
