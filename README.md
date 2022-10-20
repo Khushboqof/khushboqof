@@ -37,6 +37,12 @@
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"
       alt="c#" width="40" height="40" /> </a> <a href="https://www.learn-c.org/" target="_blank"
+  <a href="https://www.codecademy.com/learn/learn-c-plus-plus" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
+      alt="c#" width="40" height="40" /> </a> <a href="https://www.codecademy.com/learn/learn-c-plus-plus" target="_blank"
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png"
+      alt="c#" width="40" height="40" /> </a> <a href="https://www.python.org/" target="_blank"
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
