@@ -14,18 +14,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-armenta-pavon/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/elbek-khushboqoff-095779239/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="alejandro armenta" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/alex.new.world.order" target="blank"><img align="center"
+  <a href="https://www.instagram.com/khushboqof/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="alex.new.world.order" height="30" width="40" /></a>
-  <a href="https://open.spotify.com/user/alex.zeror" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg"
+  <a href="https://t.me/khushboqoff" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/2/26/Telegram_logo.svg.png"
       alt="alex.zero" height="30" width="40" /></a>
-  <a href="https://steamcommunity.com/id/alexnwo" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Steam_logo.svg"
-      alt="alexnwo" height="30" width="40" /></a>
 </p>
 
 <br>
