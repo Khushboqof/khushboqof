@@ -28,9 +28,9 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://www.ignitelogix.com/static-data/images/technologies/react-native.svg"
-      alt="react native" width="40" height="40" /> </a> </a> <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.dot-net.uz/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
+      alt="Dotnet Uzbekistan" width="40" height="40" /> </a> </a> <a href="https://www.dot-net.uz/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
       alt="react js" width="40" height="40" />
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
