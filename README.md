@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=alexanderNWO&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views:</h3> <img src="https://www.linkedin.com/in/elbek-khushboqoff-095779239/"
     alt="khushboqof" /> 
   </p>
 
@@ -12,9 +12,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and DevOps on AWS
+- 🌱 I am currently a .Net developer
 
-- 📫 How to reach me **alex0430@live.com.mx**
+- 📫 How to reach me **xushboqov.elbek@mail.ru**
 
 - ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
 
