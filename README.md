@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views:</h3> <img src="https://www.linkedin.com/in/elbek-khushboqoff-095779239/"
+<p align="right"> <h3>Profile Views:</h3>
     alt="khushboqof" /> 
   </p>
 
