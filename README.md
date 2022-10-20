@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alejandro Armenta</h1>
-<h3 align="center">Fullstack Developer🌟.</h3>
+<h1 align="center">Hi 👋, I'm Elbek Xushboqov</h1>
+<h3 align="center"> .NET Software Engineer🌟.</h3>
 
 <br>
 
 <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=alexanderNWO&label=Profile%20views&color=0e75b6&style=flat"
-    alt="AlexanderNwO" /> 
+    alt="khushboqof" /> 
   </p>
 
 <br>
