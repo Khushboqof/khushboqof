@@ -22,7 +22,7 @@
       alt="alex.new.world.order" height="30" width="40" /></a>
   <a href="https://t.me/khushboqoff" target="blank"><img align="center"
       src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-png-transparent.png"
-      alt="alex.zero" height="30" width="35" /></a>
+      alt="alex.zero" height="30" width="32" /></a>
 </p>
 
 <br>
