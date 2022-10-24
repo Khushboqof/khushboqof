@@ -2,7 +2,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - 🌱 I am currently a .Net developer
-- 📫 How to reach me: [telegram](https://t.me/khushboqoff), [linkedin](https://www.linkedin.com/in/elbek-khushboqoff-095779239/), [mail](xushboqov.elbek@mail.ru),
+- 📫 How to reach me: [telegram](https://t.me/sobirjonovsodiqjonovich), [linkedin](https://linkedin.com/in/sobirjonov),
 - ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
 <br>
 
