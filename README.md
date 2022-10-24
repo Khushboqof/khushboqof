@@ -5,25 +5,10 @@
 
 
 - 🌱 I am currently a .Net developer
-
-- 📫 How to reach me **xushboqov.elbek@mail.ru**
-
+- 📫 How to reach me: [telegram](https://t.me/khushboqoff), [linkedin](https://www.linkedin.com/in/elbek-khushboqoff-095779239/), [mail](xushboqov.elbek@mail.ru)
 - ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
 
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/elbek-khushboqoff-095779239/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="alejandro armenta" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/khushboqof/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="alex.new.world.order" height="30" width="40" /></a>
-  <a href="https://t.me/khushboqoff" target="blank"><img align="center"
-      src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-png-transparent.png"
-      alt="alex.zero" height="30" width="32" /></a>
-</p>
 
 <br>
 
