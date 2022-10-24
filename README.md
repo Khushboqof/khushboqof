@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=ELBEK%20KHUSHBOQOF%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 - 🌱 I am currently a .Net developer
 - 📫 How to reach me: [telegram](https://t.me/sobirjonovsodiqjonovich), [linkedin](https://linkedin.com/in/sobirjonov),
 - ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
