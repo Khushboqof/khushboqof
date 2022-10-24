@@ -4,6 +4,7 @@
 
 - 🌱 I am currently a .Net developer
 - 📫 How to reach me: [telegram](https://t.me/khushboqof), [linkedin](https://www.linkedin.com/in/elbek-khushboqoff-095779239/)
+- ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
 - ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
 <br>
 
