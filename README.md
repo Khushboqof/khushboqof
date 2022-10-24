@@ -4,6 +4,7 @@
 - 🌱 I am currently a .Net developer
 - 📫 How to reach me: [telegram](https://t.me/khushboqoff), [linkedin](https://www.linkedin.com/in/elbek-khushboqoff-095779239/), [mail](xushboqov.elbek@mail.ru)
 - ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
+- </p>
 <br>
 
 <br>
