@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=MUKHAMMAD%20UMARKULOV%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=ELBEK%20KHUSHBOQOF%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <h3 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -9,7 +9,6 @@
         <img
                 src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=.NET+Software+Engineer&center=true&width=580&height=45"></a>
 </p>
-<h3 align="center"> .NET Software Engineer🌟.</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
