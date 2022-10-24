@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Elbek Xushboqov</h1>
+<p align="center">
+    <a href="https://github.com/MuhammadUmarqulov/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=.NET+Software+Engineer&center=true&width=580&height=45"></a>
+</p>
 <h3 align="center"> .NET Software Engineer🌟.</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
